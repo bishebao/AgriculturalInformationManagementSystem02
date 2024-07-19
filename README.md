@@ -1,0 +1,2 @@
+# AgriculturalInformationManagementSystem02
+ 基于SSM的农业信息管理系统
